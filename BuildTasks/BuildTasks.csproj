@@ -46,7 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ColumnDef.cs" />
     <Compile Include="CreateStoredProcedureTask.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
